@@ -1,4 +1,4 @@
 # Power
 For Portfolio
-## heading
-### heading
+## headings
+### headings
